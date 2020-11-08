@@ -12,11 +12,11 @@ File: Layout CSS
 @import url("framework.css");
 
 
-/* ADICIONADOS */
+/* ADICIONADOS 
 #main-cta-button{
 	margin-top: 100%;
   	padding-bottom: 25%;
-}
+}*/
 /* Rows
 --------------------------------------------------------------------------------------------------------------- */
 .row1, .row1 a{}
