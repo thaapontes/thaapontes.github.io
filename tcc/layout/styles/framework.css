@@ -94,9 +94,13 @@ address, article, aside, figcaption, figure, footer, header, main, nav, section{
 .one_half, .t_third, .two_third, .one_quarter, .two_quarter, .three_quarter{display:inline-block; float:left; margin:0 0 0 3.06748466257669%; list-style:none;}
 .one_third{display:inline-block; float:left; margin:0 0 0 20.06748466257669%; list-style:none;}
 .first{margin-left:0; clear:left;}
+.f_abordagem{display:inline-block; float:left; margin:0 0 0 3.06748466257669%; list-style:none;}
+.s_abordagem{display:inline-block; float:left; margin:0 0 0 3.06748466257669%; list-style:none;}
 
 .one_quarter{width:22.69938650306748%;}
 .one_third{width:19.28834355828221%;}
+.f_abordagem{width:45.28834355828221%;}
+.s_abordagem{width:29.28834355828221%;}
 .t_third{width:31.28834355828221%;}
 .one_half, .two_quarter{width:48.46625766871166%;}
 .two_third{width:65.6441717791411%;}
